@@ -1,3 +1,7 @@
+# DevOps Capstone Project
+
+[![CI Build](https://github.com/SWAPNILMANDEKAR-20/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg?branch=main)](https://github.com/SWAPNILMANDEKAR-20/devops-capstone-project/actions/workflows/ci-build.yaml)
+
 ## Project Overview
 
 The **DevOps Capstone Project** demonstrates the development and delivery of a RESTful Accounts microservice using software engineering and DevOps practices. The project is intended to cover account management, automated testing, continuous integration, security configuration, containerization, and deployment.
